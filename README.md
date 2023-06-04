@@ -10,3 +10,6 @@ then open the HTML file and start making your daily tasks.
 
 ## Methods used:
 classlist.add(),createElement(),append().
+
+## Deployed on
+https://i-bassem.github.io/To-Do-List/
